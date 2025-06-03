@@ -1,12 +1,12 @@
 # Short Course: Building Systems with the ChatGPT API
 
 ### Acknowledgments
-The Python code is from the short course "Building Systems with the ChatGPT API" on the DeepLearning.AI platform, available for free.
-For more details, visit:
+The Python code is from the short course "Building Systems with the ChatGPT API" on the DeepLearning.AI platform, available for free.  
+For more details, visit:  
 <https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/>
 
 ### Description
-This repository contains only Python code from my practice after each lesson.
+This repository contains only Python code from my practice after each lesson.  
 The original lessons are in Jupyter Notebook format, so I highly recommend signing in and watching the course for more detailed explanations and theory. You won’t regret it! 🙂
 
 ### Notes
